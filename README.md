@@ -4,7 +4,7 @@
 
 ## FEATURES:
 
-### -> Loading while fetching the json file
+### -> Loading screen while fetching the json file
 ![image](https://github.com/Yashmeet24/reactApp/assets/87987423/cbcb73ce-a4ee-4416-ba23-e319a6650801)
 
 ### -> Adding a new blog
@@ -13,7 +13,7 @@
 ### -> Homepage previews all the blogs list
 ![image](https://github.com/Yashmeet24/reactApp/assets/87987423/a10be95a-cb24-4d89-83b6-8156e258840c)
 
-### -> Liking the blogs
+### -> Liking the blogs and seeing the like count (which increases with each like)
 ![image](https://github.com/Yashmeet24/reactApp/assets/87987423/65a8e78e-d735-43eb-bd24-5efac7aae720)
 
 ### -> Deleting the blogs
