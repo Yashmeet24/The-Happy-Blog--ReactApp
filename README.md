@@ -6,6 +6,7 @@
 
 ### -> Loading screen while fetching the json file
 ![image](https://github.com/Yashmeet24/reactApp/assets/87987423/cbcb73ce-a4ee-4416-ba23-e319a6650801)
+![image](https://github.com/Yashmeet24/reactApp/assets/87987423/177b3f52-7246-42c2-b2f0-a30bf7e67168)
 
 ### -> Adding a new blog
 ![image](https://github.com/Yashmeet24/reactApp/assets/87987423/cdb474da-4330-49d4-80e0-063125ca425f)
